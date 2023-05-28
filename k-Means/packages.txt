@@ -1,6 +1,0 @@
-Accord.3.8.0
-Accord.Controls.3.8.0
-Accord.MachineLearning.3.8.0
-Accord.Math.3.8.0
-Accord.Statistics.3.8.0
-ZedGraph.5.1.7
